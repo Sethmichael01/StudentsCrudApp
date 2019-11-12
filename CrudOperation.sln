@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudOperation", "CrudOperation\CrudOperation.csproj", "{77164984-5CB2-4CFD-952C-AC20C894E2D8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StudentsRecord", "StudentsRecord\StudentsRecord.vdproj", "{867F8943-51D3-4609-B164-AD200232745C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77164984-5CB2-4CFD-952C-AC20C894E2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77164984-5CB2-4CFD-952C-AC20C894E2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77164984-5CB2-4CFD-952C-AC20C894E2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77164984-5CB2-4CFD-952C-AC20C894E2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{867F8943-51D3-4609-B164-AD200232745C}.Debug|Any CPU.ActiveCfg = Debug
+		{867F8943-51D3-4609-B164-AD200232745C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4771B02-3E71-400F-B22D-9FBA9C0B8E9F}
+	EndGlobalSection
+EndGlobal

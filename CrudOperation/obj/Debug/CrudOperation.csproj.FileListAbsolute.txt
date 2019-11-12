@@ -1,0 +1,9 @@
+C:\Users\sethm\source\repos\CrudOperation\CrudOperation\bin\Debug\CrudOperation.exe.config
+C:\Users\sethm\source\repos\CrudOperation\CrudOperation\bin\Debug\CrudOperation.exe
+C:\Users\sethm\source\repos\CrudOperation\CrudOperation\bin\Debug\CrudOperation.pdb
+C:\Users\sethm\source\repos\CrudOperation\CrudOperation\obj\Debug\CrudOperation.csprojAssemblyReference.cache
+C:\Users\sethm\source\repos\CrudOperation\CrudOperation\obj\Debug\CrudOperation.Form1.resources
+C:\Users\sethm\source\repos\CrudOperation\CrudOperation\obj\Debug\CrudOperation.Properties.Resources.resources
+C:\Users\sethm\source\repos\CrudOperation\CrudOperation\obj\Debug\CrudOperation.csproj.GenerateResource.cache
+C:\Users\sethm\source\repos\CrudOperation\CrudOperation\obj\Debug\CrudOperation.exe
+C:\Users\sethm\source\repos\CrudOperation\CrudOperation\obj\Debug\CrudOperation.pdb
